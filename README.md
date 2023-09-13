@@ -10,7 +10,9 @@
 
 I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.iim.fr/). I'm passionated by UX/UI Design and Front-End, I love creating :desktop_computer: website designs on Figma et recreate them in :keyboard: HTML, CSS and JS.
 
-<img align="right" alt="Programming" width="300" src="./images/animation.gif"/>
+<!-- <img align="right" alt="Programming" width="256" src="./images/animation.gif"/> -->
+
+[<img style="padding-top:12px" align="right" src="https://spotify-now-playing-jh98ddxd3-loucabaigneres.vercel.app/api/spotify" alt="Spotify Now Playing" width="350">](https://open.spotify.com/user/dqszsaanzaljdxchvcgf5dx8j)
 
 ## 🧐 About me
 
@@ -25,7 +27,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 <br>
 <hr>
 
-## 🛠️ Languages & Tools:
+## 🛠️ NLanguages & Tools:
 
 <p align="left">
     <img alt="html5" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
@@ -56,9 +58,8 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <details>
   <summary>⚡ My GitHub stats</summary>
-
-| <img align="left" height="150" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/top-langs/?username=loucabaigneres&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="loucabaigneres" /> | <img align="" height="150" alt="loucabaigneres's GitHub Stats" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api?username=loucabaigneres&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=282c34&text_color=ffffff&border_color=0c1a25" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    <img align="left" height="150" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/top-langs/?username=loucabaigneres&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="loucabaigneres" />
+    <img align="" height="150" alt="loucabaigneres's GitHub Stats" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api?username=loucabaigneres&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=282c34&text_color=ffffff&border_color=0c1a25" />
 
   <!-- <img align="left" height="150" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/top-langs/?username=loucabaigneres&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="loucabaigneres" />
   <img align="" height="150" alt="loucabaigneres's GitHub Stats" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api?username=loucabaigneres&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=282c34&text_color=ffffff&border_color=0c1a25" /> -->
@@ -68,17 +69,13 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 <details>
     <summary>⚡ My favorite projects</summary>
     <a href="https://github.com/loucabaigneres/axe-project">
-        <img align="center" width="300" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/pin/?username=loucabaigneres&repo=axe-project&theme=buefy" />
+        <img align="center" width="350" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/pin/?username=loucabaigneres&repo=axe-project&theme=buefy" />
     </a>
     <a href="https://github.com/loucabaigneres/portfolio-iim">
-        <img align="center" width="300" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/pin/?username=loucabaigneres&repo=portfolio-iim&theme=buefy" />
+        <img align="center" width="350" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/pin/?username=loucabaigneres&repo=portfolio-iim&theme=buefy" />
     </a>
 
 </details>
-
-### 🎧 Now Playing
-
-[<img src="https://spotify-now-playing-jh98ddxd3-loucabaigneres.vercel.app/api/spotify" alt="Spotify Now Playing" width="350">](https://open.spotify.com/user/dqszsaanzaljdxchvcgf5dx8j)
 
 <h2 align="center">⬇️ Check out my repos! ⬇️</h2>
 
