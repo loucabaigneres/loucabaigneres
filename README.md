@@ -12,7 +12,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <img align="right" alt="Programming" width="300" src="./images/animation.gif"/>
 
-## 🤔 About me
+## 🧐 About me
 
 -   💻 Learning **Front-end**, **UX/UI Design**, **Back-end**...
 
