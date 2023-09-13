@@ -12,9 +12,9 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <!-- <img align="right" alt="Programming" width="256" src="./images/animation.gif"/> -->
 
-[<img style="padding-top:12px" align="right" src="https://spotify-now-playing-jh98ddxd3-loucabaigneres.vercel.app/api/spotify" alt="Spotify Now Playing" width="350">](https://open.spotify.com/user/dqszsaanzaljdxchvcgf5dx8j)
-
 ## 🧐 About me
+
+[<img style="padding-top:12px" align="right" src="https://spotify-now-playing-jh98ddxd3-loucabaigneres.vercel.app/api/spotify" alt="Spotify Now Playing" width="400">](https://open.spotify.com/user/dqszsaanzaljdxchvcgf5dx8j)
 
 -   💻 Learning **Front-end**, **UX/UI Design**, **Back-end**...
 
@@ -24,7 +24,6 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 -   📩 Contact me: **baigneres.louca@gmail.com**.
 
-<br>
 <hr>
 
 ## 🛠️ NLanguages & Tools:
@@ -58,6 +57,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <details>
   <summary>⚡ My GitHub stats</summary>
+    <br>
     <img align="left" height="150" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/top-langs/?username=loucabaigneres&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="loucabaigneres" />
     <img align="" height="150" alt="loucabaigneres's GitHub Stats" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api?username=loucabaigneres&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=282c34&text_color=ffffff&border_color=0c1a25" />
 
@@ -68,6 +68,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <details>
     <summary>⚡ My favorite projects</summary>
+    <br>
     <a href="https://github.com/loucabaigneres/axe-project">
         <img align="center" width="350" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/pin/?username=loucabaigneres&repo=axe-project&theme=buefy" />
     </a>
