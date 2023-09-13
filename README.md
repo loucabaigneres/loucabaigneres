@@ -2,15 +2,13 @@
 
 <h2 align="right"> 🥐 A French student developer! </h2>
 
-![](./images/animation-banner.gif)
+![Javascript Animation](./images/animation-banner.gif)
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=loucabaigneres&label=Profile%20views&color=0e75b6&style=flat" alt="loucabaigneres" />
 </p>
 
 I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.iim.fr/). I'm passionated by UX/UI Design and Front-End, I love creating :desktop_computer: website designs on Figma et recreate them in :keyboard: HTML, CSS and JS.
-
-<!-- <img align="right" alt="Programming" width="256" src="./images/animation.gif"/> -->
 
 ## 🧐 About me 🎧
 
@@ -60,13 +58,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
     <br>
     <img align="left" height="150" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/top-langs/?username=loucabaigneres&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="loucabaigneres" />
     <img align="" height="150" alt="loucabaigneres's GitHub Stats" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api?username=loucabaigneres&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=282c34&text_color=ffffff&border_color=0c1a25" />
-
-  <!-- <img align="left" height="150" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/top-langs/?username=loucabaigneres&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="loucabaigneres" />
-  <img align="" height="150" alt="loucabaigneres's GitHub Stats" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api?username=loucabaigneres&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=282c34&text_color=ffffff&border_color=0c1a25" /> -->
-
 </details>
-
-<br>
 
 <details>
     <summary>⚡ My favorite projects</summary>
@@ -77,7 +69,6 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
     <a href="https://github.com/loucabaigneres/portfolio-iim">
         <img align="center" width="350" src="https://github-readme-stats-hntyrnmon-loucabaigneres.vercel.app/api/pin/?username=loucabaigneres&repo=portfolio-iim&theme=buefy" />
     </a>
-
 </details>
 
 <br>
