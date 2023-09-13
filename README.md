@@ -12,7 +12,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <!-- <img align="right" alt="Programming" width="256" src="./images/animation.gif"/> -->
 
-## 🧐 About me
+## 🧐 About me 🎧
 
 [<img style="padding-top:12px" align="right" src="https://spotify-now-playing-jh98ddxd3-loucabaigneres.vercel.app/api/spotify" alt="Spotify Now Playing" width="400">](https://open.spotify.com/user/dqszsaanzaljdxchvcgf5dx8j)
 
@@ -26,7 +26,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 <hr>
 
-## 🛠️ NLanguages & Tools:
+## 🛠️ Languages & Tools:
 
 <p align="left">
     <img alt="html5" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
@@ -66,6 +66,8 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 </details>
 
+<br>
+
 <details>
     <summary>⚡ My favorite projects</summary>
     <br>
@@ -78,40 +80,6 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 </details>
 
+<br>
+
 <h2 align="center">⬇️ Check out my repos! ⬇️</h2>
-
-<!-- Icônes classiques -->
-<!-- <p align="left">
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
-    <img height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg'>
-</p> -->
-
-<!-- Icônes simples -->
-<!-- <p align="left">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeaftereffects.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" />
-</p> -->
