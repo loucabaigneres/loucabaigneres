@@ -14,7 +14,7 @@ I'm a web development sophomore 👨‍🎓 at [IIM Digital School](https://www.
 
 [<img style="padding-top:12px" align="right" src="https://spotify-now-playing-jh98ddxd3-loucabaigneres.vercel.app/api/spotify" alt="Spotify Now Playing" width="400">](https://open.spotify.com/user/dqszsaanzaljdxchvcgf5dx8j)
 
--   💻 Learning **Front-end**, **UX/UI Design**, **Back-end**...
+-   💻 Learning **Full Stack Web Development**, **DevOps**, **Cloud Computing**, **UX/UI Design**...
 
 -   🍽️ Currently working on [L'Ingrédient Secret](https://www.figma.com/file/mA8HKrLQexdmYsxSXW7o9i/L'ingredient-Secret?type=design&node-id=0%3A1&mode=design&t=85epUUpoDSpcpjAb-1).
 
