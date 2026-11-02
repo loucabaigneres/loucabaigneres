@@ -18,7 +18,7 @@ I'm a Master's student in Web Engineering & Digital Innovations (DevOps Track) �
 
 -   🏗️ Currently working as a **DevOps Engineer Apprentice** at SUEZ.
 
--   👾 Developing my student project, **Voyag'R**.
+-   👾 Developing my student project, **Seego**.
 
 -   📩 Contact me: **baigneres.louca@gmail.com**.
 
